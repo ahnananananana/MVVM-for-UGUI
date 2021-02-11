@@ -6,7 +6,7 @@
 ![2](https://user-images.githubusercontent.com/65099451/107627046-0b98d800-6ca2-11eb-99d0-d34f431bf7bf.PNG)
 ![캡처](https://user-images.githubusercontent.com/65099451/107626924-da200c80-6ca1-11eb-8947-62e17fbc975c.PNG)
 
-2. 원하는 UI에 해당 UIViewBinder를 추가하고 UIViewModel을 할당한다. (e.g. 숫자 변수를 Text에 붙이고 싶다면 TextIntViewBinder를 추가한다.)
+2. 원하는 UI에 해당 UIViewBinder를 추가하고 UIViewModel을 할당한다. (e.g. 숫자 변수를 Text에 붙이고 싶다면 TextIntViewBinder를 추가한다.) 
 ![5](https://user-images.githubusercontent.com/65099451/107627202-4f8bdd00-6ca2-11eb-9f24-42462bc9f710.PNG)
 
 3. Model에 원하는 변수를 타이핑한다.
